@@ -15,7 +15,7 @@ I'm a sophomore at **Northwestern University**, majoring in **Applied Mathematic
 ## Skills
 - **Languages:** Python, MATLAB, SQL  
 - **Math & Data:** Linear Algebra, Differential Equations  
-- **Tools:** Jupyter, Git/Github Excel  
+- **Tools:** Jupyter, Git/Github, Excel  
 
 ---
 
