@@ -14,7 +14,7 @@ I'm a sophomore at **Northwestern University**, majoring in **Applied Mathematic
 
 ## Skills
 - **Languages:** Python, MATLAB, SQL  
-- **Math & Data:** Linear Algebra, Differential Equations  
+- **Math & Data:** Multivariable Calculus, Linear Algebra, Differential Equations  
 - **Tools:** Jupyter, Git/Github, Excel  
 
 ---
@@ -23,14 +23,17 @@ I'm a sophomore at **Northwestern University**, majoring in **Applied Mathematic
 - Multivariable Calculus & Linear Algebra
 - Differential Equations
 - Numerical Methods in Engineering Contexts
-- Probability and Stochastic Processes (upcoming)
-- Physics(upcoming)
-
+- Probability and Stochastic Processes
+- Physics
+- Computer Programming 
 ---
 
+---
 ## Projects
-- 
----
+- Designed a modified podoscope with an implementation of the Coleman Block Test for Shriners Children's Hospital
+- Designed a power wheelchair soccer attachment for a student with severe muscle weakness at Niles Township District for Special Education
+- Personal Coding Project: Interactive and educational code for teaching gifted students math concepts
+    - https://github.com/elizabethcooney/coding-samples
 
 ## Let's Connect
 - Email: elizabethcooney2028@u.northwestern.edu
